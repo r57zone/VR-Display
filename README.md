@@ -15,5 +15,5 @@ Powered by USB, data transfer gyroscope via USB.<br>
 Rasberry PI controller, or any other more appropriate.<br>
 Gyroscope (optional).<br>
 **Feedback**<br>
-r57zone[dog]gmail.com<br>
+r57zone[at]gmail.com<br>
 ![](https://github.com/r57zone/VR-Display/blob/master/VRDisplay.png)<br>
