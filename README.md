@@ -1,3 +1,4 @@
+[![](https://github.com/r57zone/VR-Display/blob/master/2.png)](https://github.com/r57zone/VR-Display/blob/master/2.png)
 <h2>RU:</h2>
 Дисплей для шлема виртуальной реальности Google CardBoard.<br>
 Питание от USB, передача данных гироскопа по USB.<br>
@@ -16,4 +17,6 @@ Rasberry PI controller, or any other more appropriate.<br>
 Gyroscope (optional).<br>
 **Feedback**<br>
 r57zone[at]gmail.com<br>
+[![](https://github.com/r57zone/VR-Display/blob/master/1.png)](https://github.com/r57zone/VR-Display/blob/master/1.png)
+[![](https://github.com/r57zone/VR-Display/blob/master/3.png)](https://github.com/r57zone/VR-Display/blob/master/3.png)
 ![](https://github.com/r57zone/VR-Display/blob/master/VRDisplay.png)<br>
