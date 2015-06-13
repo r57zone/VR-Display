@@ -22,10 +22,10 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 **Тесты и улучшения:**<br>
 Проверить удобство правого расположения разъемов HDMI и USB в Google Cardboard, если недостаточно удобно, 
 то добавить возможность повернуть контроллер разъемами вниз, с программным или аппаратным (2 джампера) переключением 
-осей гироскопа.
+осей гироскопа.<br>
 **Примерная стоимость:**<br>
 Дисплей - ~35$, контроллер - ~40$, гироскоп - ~2$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
-Конечная стоимость железной части прототипа составляет около 90$. 
+Конечная стоимость железной части прототипа составляет около 90$.<br> 
 **Обратная связь**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.
 
@@ -49,10 +49,10 @@ Power devices and data from the gyroscope occurs in one or two USB 2.0, or USB 3
 **Tests and improve:**<br>
 Check the convenience of location right HDMI and USB in Google Cardboard, if not enough convenient,
 then add the ability to turn down the controller connectors, software or hardware (2 jumpers) switching
-axis gyroscope.
+axis gyroscope.<br>
 **Estimated cost:**<br>
 Display - ~ $ 35, the controller - ~ $ 40, the gyro - ~ $ 2, additional costs - ~ $ 10. Prices include shipping worldwide.
-The final cost of the prototype rail is about $ 90.
+The final cost of the prototype rail is about $ 90.<br>
 **Feedback**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
 ![](https://raw.githubusercontent.com/r57zone/VR-Display/master/VRDisplay.png)
