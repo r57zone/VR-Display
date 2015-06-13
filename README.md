@@ -28,6 +28,9 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Конечная стоимость железной части прототипа составляет около 90$.<br> 
 **Обратная связь**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.
+**Ссылки**<br>
+Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
+Возможно, они смогут реализовать - http://www.vzrt.ru/
 
 <h2>EN:</h2>
 VR Display - HDMI display for head-mounted display Google CardBoard or any other similar helmets
