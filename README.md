@@ -26,9 +26,9 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 **Примерная стоимость:**<br>
 Дисплей - ~35$, контроллер - ~40$, гироскоп - ~2$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
 Конечная стоимость железной части прототипа составляет около 90$.<br> 
-**Обратная связь**<br>
+**Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
-**Ссылки**<br>
+**Ссылки:**<br>
 Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
 Возможно, они смогут реализовать - http://www.vzrt.ru/
 
@@ -56,6 +56,6 @@ axis gyroscope.<br>
 **Estimated cost:**<br>
 Display - ~ $ 35, the controller - ~ $ 40, the gyro - ~ $ 2, additional costs - ~ $ 10. Prices include shipping worldwide.
 The final cost of the prototype rail is about $ 90.<br>
-**Feedback**<br>
+**Feedback:**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
 ![](https://raw.githubusercontent.com/r57zone/VR-Display/master/VRDisplay.png)
