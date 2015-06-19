@@ -30,7 +30,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
 **Ссылки:**<br>
 Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
-Возможно, они смогут реализовать - http://www.vzrt.ru/
+Возможно, они смогут реализовать - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov
 
 <h2>EN:</h2>
 VR Display - HDMI display for head-mounted display Google CardBoard or any other similar helmets
