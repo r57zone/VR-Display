@@ -28,7 +28,15 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Конечная стоимость железной части прототипа составляет около 90$.<br> 
 **Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
-**Ссылки:**<br>
+**Найдено:**<br>
+Китайцы уже скопировали? (150-300$, за штуку, минимальная покупка от 2 штук) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2<br>
+Дисплеи 5" 1080p и 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
+http://www.alibaba.com/product-detail/1080-1440p-mipi-dsi-interface-lcd_60185682237.html<br>
+Дисплеи 5" 1080p и 6" 1440p на Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
+http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
+Дисплей 9.7" 2048 x 1536 - http://www.ebay.com/itm/DisplayPort-Controller-Board-kit-9-7-LP097QX1-Ipad3-LCD-Display-Screen-/371297069597<br>
+http://www.ebay.com/itm/DisplayPort-LCD-Display-Interface-Board-for-9-7-iPad-3-4-LP097QX1-Connector-EDP-/271802377579<br>
+DisplayPort LCD дисплей интерфейс - http://www.ebay.com/itm/DisplayPort-LCD-Display-Interface-Board-for-9-7-iPad-3-4-LP097QX1-Connector-EDP-/271802377579<br>
 Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
 Возможно, они смогут реализовать - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov
 
