@@ -31,6 +31,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 **Найдено:**<br>
 Китайцы уже скопировали? (150-300$, за штуку, минимальная покупка от 2 штук) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2<br>
 Дисплеи 5" 1080p и 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
+http://ru.aliexpress.com/store/product/DIY-VR-6-inch-IPS-lcd-hdmi-1920-full-hd-display-with-hdmi-mipi-board-TC358870/1764418_32328362051.html<br>
 http://www.alibaba.com/product-detail/1080-1440p-mipi-dsi-interface-lcd_60185682237.html<br>
 Дисплеи 5" 1080p и 6" 1440p на Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
 http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
