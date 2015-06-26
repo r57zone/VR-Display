@@ -14,7 +14,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 2. Контроллер, который позволяет преобразовать HDMI сигнал на этот дисплей. Идеальным вариантом бы было, чтобы этот
 контроллер еще эмулировал USB устройство гироскоп или что-то другое, позволяющее получить данные гироскопа.
 Возможно, для этой цели подойдет контроллер Rasberry PI.<br> 
-3. Гироскоп, подойдет любой Arduino совместимый гироскоп.<br> 
+3. Гироскоп GY-85 9DOF IMU.<br> 
 4. Кнопка включения, с модульным подключением (подключение через разъем на плате).<br> 
 5. Колесико регулирующее яркость, с модульным подключением.<br> 
 **Технические детали:**<br>
@@ -24,10 +24,12 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 то добавить возможность повернуть контроллер разъемами вниз, с программным или аппаратным (2 джампера) переключением 
 осей гироскопа.<br>
 **Примерная стоимость:**<br>
-Дисплей - ~35$, контроллер - ~40$, гироскоп - ~2$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
-Конечная стоимость железной части прототипа составляет около 90$.<br> 
+Дисплей - ~35$, контроллер - ~40$, гироскоп - ~10$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
+Конечная стоимость железной части прототипа составляет около 100$.<br> 
 **Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
+**Софт**<br>
+Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 **Найдено:**<br>
 Китайцы уже скопировали? (150-300$, за штуку, минимальная покупка от 2 штук) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2<br>
 Дисплеи 5" 1080p и 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
@@ -54,7 +56,7 @@ and the price will fall.<br>
 2. The controller, which allows you to convert the HDMI signal to the display. The ideal situation would be that this
 Controller has emulated USB device gyro or something else that allows you to retrieve data Gyro.
 Perhaps for this purpose will approach the controller Rasberry PI.<br> 
-3. Gyro, you can use any Arduino Compatible gyroscope.<br> 
+3. Gyroscope GY-85 9DOF IMU.<br> 
 4. The power button, with a modular connection (connection via connector on the board).<br> 
 5. Wheel adjusts the brightness, modular connection.<br> 
 **Technical details:**<br>
@@ -64,8 +66,19 @@ Check the convenience of location right HDMI and USB in Google Cardboard, if not
 then add the ability to turn down the controller connectors, software or hardware (2 jumpers) switching
 axis gyroscope.<br>
 **Estimated cost:**<br>
-Display - ~ $ 35, the controller - ~ $ 40, the gyro - ~ $ 2, additional costs - ~ $ 10. Prices include shipping worldwide.
-The final cost of the prototype rail is about $ 90.<br>
+Display - ~ $ 35, the controller - ~ $ 40, the gyro - ~ $ 10, additional costs - ~ $ 10. Prices include shipping worldwide.
+The final cost of the prototype rail is about $ 100.<br>
 **Feedback:**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
+**Software**<br>
+Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
+**Найдено:**<br>
+The Chinese have already copied? ($ 150-300, per unit, the minimum purchase of 2 pieces) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2 <br>
+Displays 5 "1080p and 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html <br>
+http://ru.aliexpress.com/store/product/DIY-VR-6-inch-IPS-lcd-hdmi-1920-full-hd-display-with-hdmi-mipi-board-TC358870/1764418_32328362051.html<br>
+http://www.alibaba.com/product-detail/1080-1440p-mipi-dsi-interface-lcd_60185682237.html <br>
+Displays 5 "1080p and 6" 1440p on Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
+http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
+Gyroscope USB Oculus DK1 - http://ru.aliexpress.com/store/product/freee-shipping-tracking-system-module-9-dof-9-axis-gyroscope-usb-module-for-virtual-reality-headset/1764418_32331133289.html<br>
+
 ![](https://raw.githubusercontent.com/r57zone/VR-Display/master/VRDisplay.png)
