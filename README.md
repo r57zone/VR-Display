@@ -28,7 +28,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Конечная стоимость железной части прототипа составляет около 100$.<br> 
 **Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
-**Софт**<br>
+**Софт:**<br>
 Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 **Найдено:**<br>
 Китайцы уже скопировали? (150-300$, за штуку, минимальная покупка от 2 штук) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2<br>
@@ -70,7 +70,7 @@ Display - ~ $ 35, the controller - ~ $ 40, the gyro - ~ $ 10, additional costs -
 The final cost of the prototype rail is about $ 100.<br>
 **Feedback:**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
-**Software**<br>
+**Software:**<br>
 Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 **Found:**<br>
 The Chinese have already copied? ($ 150-300, per unit, the minimum purchase of 2 pieces) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2 <br>
