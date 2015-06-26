@@ -72,7 +72,7 @@ The final cost of the prototype rail is about $ 100.<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
 **Software**<br>
 Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
-**Найдено:**<br>
+**Found:**<br>
 The Chinese have already copied? ($ 150-300, per unit, the minimum purchase of 2 pieces) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2 <br>
 Displays 5 "1080p and 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html <br>
 http://ru.aliexpress.com/store/product/DIY-VR-6-inch-IPS-lcd-hdmi-1920-full-hd-display-with-hdmi-mipi-board-TC358870/1764418_32328362051.html<br>
