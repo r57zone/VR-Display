@@ -33,8 +33,8 @@ Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 **Найдено:**<br>
 Китайцы уже скопировали? (150-300$, за штуку, минимальная покупка от 2 штук) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2<br>
 Дисплеи 5" 1080p и 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
-http://ru.aliexpress.com/store/product/DIY-VR-6-inch-IPS-lcd-hdmi-1920-full-hd-display-with-hdmi-mipi-board-TC358870/1764418_32328362051.html<br>
 http://www.alibaba.com/product-detail/1080-1440p-mipi-dsi-interface-lcd_60185682237.html<br>
+TF60010A(2K)+HDMI плата 200$ за комплект, the TF60007A+HDMI плата 100$ за комплект. Доставка 35-50$, отправкой DHL (lisa.he[собака]topfoison.com). <br>
 Дисплеи 5" 1080p и 6" 1440p на Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
 http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
 Дисплей 9.7" 2048 x 1536 - http://www.ebay.com/itm/DisplayPort-Controller-Board-kit-9-7-LP097QX1-Ipad3-LCD-Display-Screen-/371297069597<br>
@@ -75,8 +75,8 @@ Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 **Found:**<br>
 The Chinese have already copied? ($ 150-300, per unit, the minimum purchase of 2 pieces) - http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=oculus+rift+2 <br>
 Displays 5 "1080p and 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html <br>
-http://ru.aliexpress.com/store/product/DIY-VR-6-inch-IPS-lcd-hdmi-1920-full-hd-display-with-hdmi-mipi-board-TC358870/1764418_32328362051.html<br>
 http://www.alibaba.com/product-detail/1080-1440p-mipi-dsi-interface-lcd_60185682237.html <br>
+TF60010A(2K)+HDMI board is USD200/set, the TF60007A+HDMI board is USD100/set. In general, the freight is USD35-USD50 by DHL (lisa.he[at]topfoison.com). <br>
 Displays 5 "1080p and 6" 1440p on Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
 http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
 Gyroscope USB Oculus DK1 - http://ru.aliexpress.com/store/product/freee-shipping-tracking-system-module-9-dof-9-axis-gyroscope-usb-module-for-virtual-reality-headset/1764418_32331133289.html<br>
