@@ -42,7 +42,9 @@ http://www.ebay.com/itm/DisplayPort-LCD-Display-Interface-Board-for-9-7-iPad-3-4
 Гироскоп USB Oculus DK1 - http://ru.aliexpress.com/store/product/freee-shipping-tracking-system-module-9-dof-9-axis-gyroscope-usb-module-for-virtual-reality-headset/1764418_32331133289.html<br>
 DisplayPort LCD дисплей интерфейс - http://www.ebay.com/itm/DisplayPort-LCD-Display-Interface-Board-for-9-7-iPad-3-4-LP097QX1-Connector-EDP-/271802377579<br>
 Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
-Возможно, они смогут реализовать - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov
+Возможно, они смогут реализовать - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
+MIPI DSI Display Shield/HDMI Adapter - https://hackaday.io/post/6905<br>
+Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working
 
 <h2>EN:</h2>
 VR Display - HDMI display for head-mounted display Google CardBoard or any other similar helmets
@@ -80,5 +82,7 @@ TF60010A(2K)+HDMI board is USD200/set, the TF60007A+HDMI board is USD100/set. In
 Displays 5 "1080p and 6" 1440p on Aliexpress - http://ru.aliexpress.com/store/group/5-inch-1080p-display-with-HDMI-MIPI-board/1764418_502153589.html<br>
 http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1080p-tft-dsi-hdmi-to-mipi-HDMI/1764418_32368868149.html<br>
 Gyroscope USB Oculus DK1 - http://ru.aliexpress.com/store/product/freee-shipping-tracking-system-module-9-dof-9-axis-gyroscope-usb-module-for-virtual-reality-headset/1764418_32331133289.html<br>
+MIPI DSI Display Shield/HDMI Adapter - https://hackaday.io/post/6905<br>
+Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working
 
 ![](https://raw.githubusercontent.com/r57zone/VR-Display/master/VRDisplay.png)
