@@ -45,7 +45,7 @@ DisplayPort LCD дисплей интерфейс - http://www.ebay.com/itm/Disp
 Возможно, они смогут реализовать - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
 MIPI DSI Display Shield/HDMI Adapter - https://hackaday.io/post/6905<br>
 Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working<br>
-**Слухи**<br>
+**Слухи:**<br>
 По слухам цены на дисплеи TF60007A и TF60010A существенно упадут к октябрю. Ориентировочная стоимость около 8-10$.
 
 <h2>EN:</h2>
@@ -86,7 +86,7 @@ http://ru.aliexpress.com/store/product/60HZ-5-0-inch-1920-1080-full-hd-display-1
 Gyroscope USB Oculus DK1 - http://ru.aliexpress.com/store/product/freee-shipping-tracking-system-module-9-dof-9-axis-gyroscope-usb-module-for-virtual-reality-headset/1764418_32331133289.html<br>
 MIPI DSI Display Shield/HDMI Adapter - https://hackaday.io/post/6905<br>
 Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working<br>
-**Gossip**<br>
+**Gossip:**<br>
 Rumor prices and displays TF60007A TF60010A fall substantially in October. The estimated cost of about $8-10.
 
 ![](https://raw.githubusercontent.com/r57zone/VR-Display/master/VRDisplay.png)
