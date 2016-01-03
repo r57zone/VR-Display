@@ -5,8 +5,7 @@
 <h2>RU:</h2>
 VR Display - HDMI дисплей для шлема виртуальной реальности Google CardBoard или для любых других аналогичных шлемов (держателей смартфонов, без дисплея).<br>
 **Основные компоненты:**<br>
-1. Дисплей 5 дюймов, 1920 на 1080 пикселей, поддерживающий как минимум 60 кадров. Можно взять следующие дисплеи: Samsung Galaxy Note 3 N9005 (5,7 дюймов), Samsung Galaxy S4 GT-I9500 (5 дюймов), Lenovo K910 (5,5 дюймов), LG Optimus Pro E980 (5,5 дюйма). В следующих ревизиях можно будет взять за основу 4K дисплей Sharp, когда начнется массовое производство 
-и упадет цена.<br> 
+1. Дисплей 5 дюймов, 1920 на 1080 пикселей, поддерживающий как минимум 60 кадров. Можно взять следующие дисплеи: Samsung Galaxy Note 3 N9005 (5,7 дюймов), Samsung Galaxy S4 GT-I9500 (5 дюймов), Lenovo K910 (5,5 дюймов), LG Optimus Pro E980 (5,5 дюйма). В следующих ревизиях можно будет взять за основу 4K дисплей Sharp.<br> 
 2. Два контроллера. Первый преобразовывает входной видеосигнал интерфейса HDMI в потоковые видеоданные, соответствующие стандарту MIPI DSI - Toshiba TC358779XBG. Второй эмулирует USB устройство и позволяет получить данные гироскопа - STM32F100C4T6B.
 3. Гироскоп GY-85 9DOF IMU.<br> 
 4. Кнопка включения, с модульным подключением (подключение через разъем на плате).<br> 
@@ -17,7 +16,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Проверить удобство правого расположения разъемов HDMI и USB, если недостаточно удобно, то добавить возможность повернуть контроллер разъемами вниз, 
 с программным или аппаратным (2 джампера) переключением осей гироскопа. Также можно попробовать оставить только один интерфейс, USB 3.0, по нему передавать изображение и данные.<br>
 **Примерная стоимость:**<br>
-Дисплей E980 - 15$, контроллер 1 - 10$, котроллер 2 - 5$, гироскоп - 8$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
+Дисплей E980 - 15$, контроллер 1 - 10$, контроллер 2 - 5$, гироскоп - 8$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
 Конечная стоимость железной части прототипа составляет около 50$.<br> 
 **Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
@@ -42,8 +41,7 @@ Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-displ
 VR Display - HDMI display for head-mounted display Google CardBoard or any other similar helmets
 (holders of smart phones, without display).<br>
 **Main components:**<br>
-1. 5-inch display, 1920-by-1080 pixel resolution that supports at least 60 shots. You can take the following displays: Samsung Galaxy Note 3 N9005 (5,7 inches), Samsung Galaxy S4 GT-I9500 (5 inches), Lenovo K910 (5,5 inches), LG Optimus Pro E980 (5,5 inches). The next audit will be used as a basis 4K display Sharp, when to start mass production
-and the price will fall.<br>
+1. 5-inch display, 1920-by-1080 pixel resolution that supports at least 60 shots. You can take the following displays: Samsung Galaxy Note 3 N9005 (5,7 inches), Samsung Galaxy S4 GT-I9500 (5 inches), Lenovo K910 (5,5 inches), LG Optimus Pro E980 (5,5 inches). The next audit will be used as a basis 4K display Sharp.<br>
 2. Two controllers. The first converts the input video signal to an HDMI video stream corresponding to the standard MIPI DSI - Toshiba TC358779XBG. II emulates USB device provides data gyro - STM32F100C4T6B.
 3. Gyro GY-85 9DOF IMU.<br>
 4. The power button, with a modular connection (connection via connector on the board).<br>
