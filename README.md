@@ -53,7 +53,7 @@ Check the convenience of location right HDMI and USB, if insufficient convenient
 software or hardware (2 jumpers) switching axis gyroscope. You can also try to leave only one interface, USB 3.0, on it to transmit images and data.<br>
 **Estimated cost:**<br>
 Display E980 - $15, the controller 1 - $10, the controller 2 - $5 gyro - $8, additional costs - ~$10. Prices include shipping worldwide.
-The final cost of the prototype of the iron is about 50 $.<br>
+The final cost of the prototype of the hardware is about $50.<br>
 **Feedback:**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
 **Software:**<br>
