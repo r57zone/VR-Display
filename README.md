@@ -42,7 +42,7 @@ VR Display - HDMI display for head-mounted display Google CardBoard or any other
 (holders of smart phones, without display).<br>
 **Main components:**<br>
 1. 5-inch display, 1920-by-1080 pixel resolution that supports at least 60 shots. You can take the following displays: Samsung Galaxy Note 3 N9005 (5,7 inches), Samsung Galaxy S4 GT-I9500 (5 inches), Lenovo K910 (5,5 inches), LG Optimus Pro E980 (5,5 inches). The next audit will be used as a basis 4K display Sharp.<br>
-2. Two controllers. The first converts the input video signal to an HDMI video stream corresponding to the standard MIPI DSI - Toshiba TC358779XBG. II emulates USB device provides data gyro - STM32F100C4T6B.<br> 
+2. Two controllers. The first converts the input video signal to an HDMI video stream corresponding to the standard MIPI DSI - Toshiba TC358779XBG. The second emulation USB device provides data gyro - STM32F100C4T6B.<br> 
 3. Gyro GY-85 9DOF IMU.<br>
 4. The power button, with a modular connection (connection via connector on the board).<br>
 5. Wheel adjusts the brightness, modular connection.<br>
