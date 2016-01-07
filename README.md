@@ -32,7 +32,7 @@ TF60010A(2K) + HDMI плата 200$за комплект, TF60007A + HDMI пла
 Дисплеи 5" 1080p и 6" 1440p на Aliexpress - http://ali.pub/wsy8b<br>
 Гироскоп USB Oculus DK1 - http://ali.pub/nfxr1<br>
 Мелкосерийное производство несложной электроники - http://habrahabr.ru/post/241493/<br>
-Проищводство - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
+Производство - http://www.vzrt.ru/ или они http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
 MIPI DSI Display Shield/HDMI Adapter - https://hackaday.io/post/6905<br>
 Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working<br>
 
@@ -68,7 +68,7 @@ TF60010A (2K) + HDMI $200 fee per set, TF60007A + HDMI fee of $100 per set. Deli
 Displays 5 "1080p and 6" 1440p on Aliexpress - http://ali.pub/wsy8b<br>
 Gyro USB Oculus DK1 - http://ali.pub/nfxr1<br>
 Small-scale production of simple electronics - http://habrahabr.ru/post/241493/<br>
-Proischvodstvo - http://www.vzrt.ru/ or they http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
+Production - http://www.vzrt.ru/ or they http://promwad.ru/uslugi/izgotovlenie-opytnyh-obrazcov<br>
 MIPI DSI Display Shield / HDMI Adapter - https://hackaday.io/post/6905<br>
 Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-display-shieldhdmi-adapter/log/16504-galaxy-s4-amoled-screen-working<br>
 
