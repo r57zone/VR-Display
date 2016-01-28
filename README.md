@@ -26,6 +26,7 @@ Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 Google Cardboard - http://ali.pub/q152a<br>
 VR Box - http://ali.pub/eocnj<br>
 Shinecon VR - http://ali.pub/dc9ml<br>
+Baofeng Mojing III Plus - http://ali.pub/b8er6<br>
 **Дополнительно:**<br>
 Дисплеи 5" 1080p и 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
 TF60010A(2K) + HDMI плата 200$за комплект, TF60007A + HDMI плата 100$за комплект. Доставка 35-50$, отправкой DHL (lisa.he[собака]topfoison.com).<br>
@@ -62,6 +63,7 @@ Arduino Headtracker - https://github.com/mdjarv/arduinoheadtracker<br>
 Google Cardboard - http://ali.pub/q152a<br>
 VR Box - http://ali.pub/eocnj<br>
 Shinecon VR - http://ali.pub/dc9ml<br>
+Baofeng Mojing III Plus - http://ali.pub/b8er6<br>
 **Extras:**<br>
 Displays 5 "1080p and 6" 1440p - http://www.alibaba.com/products/F0/oculus_rift_2/CID400401.html<br>
 TF60010A (2K) + HDMI $200 fee per set, TF60007A + HDMI fee of $100 per set. Delivery $35-50, sending DHL (lisa.he[at]topfoison.com).<br>
