@@ -16,7 +16,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 Проверить удобство правого расположения разъемов HDMI и USB, если недостаточно удобно, то добавить возможность повернуть контроллер разъемами вниз, 
 с программным или аппаратным (2 джампера) переключением осей гироскопа. Также можно попробовать оставить только один интерфейс, USB 3.0, по нему передавать изображение и данные.<br>
 **Примерная стоимость:**<br>
-Дисплей E980 - 15$, контроллер 1 - 10$, контроллер 2 - 5$, гироскоп - 8$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
+Дисплей E980 - [12$](http://ali.pub/9ogjn), контроллер 1 (HDMI MIPI DSI) - [15$](http://ali.pub/59mjz), контроллер 2 - 5$, гироскоп - 8$, дополнительные расходы - ~10$. Цены с учетом доставки по всему миру. 
 Конечная стоимость железной части прототипа составляет около 50$.<br> 
 **Обратная связь:**<br>
 Если вы знаете подходящие дисплеи, контроллеры или хотите как-то помочь в разработке, то пишите - r57zone[собака]gmail.com.<br>
@@ -53,7 +53,7 @@ Power devices and data from the gyroscope occurs in one or two USB 2.0, one or U
 Check the convenience of location right HDMI and USB, if insufficient convenient, then add the ability to turn down the controller connectors,
 software or hardware (2 jumpers) switching axis gyroscope. You can also try to leave only one interface, USB 3.0, on it to transmit images and data.<br>
 **Estimated cost:**<br>
-Display E980 - $15, the controller 1 - $10, the controller 2 - $5 gyro - $8, additional costs - ~$10. Prices include shipping worldwide.
+Display E980 - [12$](http://ali.pub/9ogjn), the controller 1 (HDMI MIPI DSI) - $[15$](http://ali.pub/59mjz), the controller 2 - $5 gyro - $8, additional costs - ~$10. Prices include shipping worldwide.
 The final cost of the prototype of the hardware is about $50.<br>
 **Feedback:**<br>
 If you know the appropriate displays, controllers, or want to do something to help in the development, write - r57zone[at]gmail.com.<br>
