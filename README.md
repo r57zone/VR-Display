@@ -14,6 +14,7 @@ VR Display - HDMI дисплей для шлема виртуальной реа
 3. Гироскоп GY-85 9DOF IMU.<br> 
 4. Кнопка включения, с модульным подключением (подключение через разъем на плате).<br> 
 5. Колесико регулирующее яркость, с модульным подключением.<br> 
+
 **Технические детали:**<br>
 Питание устройства и передача данных от гироскопа происходит через один или два USB 2.0, или один USB 3.0.<br>
 **Тесты и улучшения:**<br>
@@ -56,6 +57,7 @@ VR Display - HDMI display for head-mounted display Google CardBoard or any other
 3. Gyro GY-85 9DOF IMU.<br>
 4. The power button, with a modular connection (connection via connector on the board).<br>
 5. Wheel adjusts the brightness, modular connection.<br>
+
 **Technical details:**<br>
 Power devices and data from the gyroscope occurs in one or two USB 2.0, one or USB 3.0.<br>
 **Tests and improvements:**<br>
