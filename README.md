@@ -1,8 +1,9 @@
-#VR Display for Google Cardboard (concept)
+# VR Display for Google Cardboard (concept)
 [![](https://github.com/r57zone/VR-Display/blob/master/2.png)](https://github.com/r57zone/VR-Display/blob/master/2.png)
 [![](https://github.com/r57zone/VR-Display/blob/master/1.png)](https://github.com/r57zone/VR-Display/blob/master/1.png)
 [![](https://github.com/r57zone/VR-Display/blob/master/3.png)](https://github.com/r57zone/VR-Display/blob/master/3.png)
 <h2>RU:</h2>
+
 VR Display - HDMI дисплей для шлема виртуальной реальности Google CardBoard или для любых других аналогичных шлемов (держателей смартфонов, без дисплея).<br>
 **Готовые решения:**<br>
 [H8VR](http://ali.pub/bjrwd) - 130$, 1080p, Android 5.1 без HDMI.<br>
@@ -43,6 +44,7 @@ Galaxy S4 AMOLED screen working - https://hackaday.io/project/364-mipi-dsi-displ
 
 
 <h2>EN:</h2>
+
 VR Display - HDMI display for head-mounted display Google CardBoard or any other similar helmets
 (holders of smart phones, without display).<br>
 **Ready solutions:**<br>
