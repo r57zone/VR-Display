@@ -45,7 +45,6 @@ HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
 Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
 
 **VR headsets:**<br>
-
 Google Cardboard v2 - http://ali.pub/1g7xfd<br>
 Bobo Z4 - http://ali.pub/1g7x77<br>
 
