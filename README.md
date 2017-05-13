@@ -24,22 +24,28 @@ Bobo Z4 - http://ali.pub/1g7x77<br>
 
 **Технические детали:**<br>
 Питание устройства и передача данных от гироскопа происходит через один или два USB 2.0, или один USB 3.0.<br>
+
 **Тесты и улучшения:**<br>
 Проверить удобство правого расположения разъемов HDMI и USB, если недостаточно удобно, то добавить возможность повернуть контроллер разъемами вниз, 
 с программным или аппаратным (2 джампера) переключением осей гироскопа. Также можно попробовать оставить только один интерфейс, USB 3.0, по нему передавать изображение и данные.<br>
+
 **Обратная связь:**<br>
 r57zone[собака]gmail.com.<br>
 
 
 <h2>EN:</h2>
 VR Display - concept HDMI display for head-mounted display Google CardBoard or any other similar vr headsets without display.<br>
+
 **Ready solutions:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 080p, Android, HDMI.<br>
 [Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br>
 **Ready components**<br>
+
 HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
 Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
+
 **VR headsets:**<br>
+
 Google Cardboard v2 - http://ali.pub/1g7xfd<br>
 Bobo Z4 - http://ali.pub/1g7x77<br>
 **Main components:**
@@ -50,10 +56,13 @@ Bobo Z4 - http://ali.pub/1g7x77<br>
 5. Wheel adjusts the brightness, modular connection.<br>
 
 **Technical details:**<br>
+
 Power devices and data from the gyroscope occurs in one or two USB 2.0, one or USB 3.0.<br>
+
 **Tests and improvements:**<br>
 Check the convenience of location right HDMI and USB, if insufficient convenient, then add the ability to turn down the controller connectors,
 software or hardware (2 jumpers) switching axis gyroscope. You can also try to leave only one interface, USB 3.0, on it to transmit images and data.<br>
+
 **Feedback:**<br>
 r57zone[at]gmail.com.<br>
 
