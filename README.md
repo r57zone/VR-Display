@@ -40,7 +40,7 @@ VR Display - concept HDMI display for head-mounted display Google CardBoard or a
 **Ready solutions:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 080p, Android, HDMI.<br>
 [Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br><br>
-**Ready components**<br>
+**Ready components**
 
 HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
 Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
@@ -58,7 +58,6 @@ Bobo Z4 - http://ali.pub/1g7x77<br>
 5. Wheel adjusts the brightness, modular connection.<br>
 
 **Technical details:**
-
 Power devices and data from the gyroscope occurs in one or two USB 2.0, one or USB 3.0.<br>
 
 **Tests and improvements:**<br>
