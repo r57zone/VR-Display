@@ -8,14 +8,14 @@ VR Display - концепт HDMI дисплея для шлема виртуал
 **Готовые решения:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 080p, Android, HDMI.<br>
 [Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br>
-**Готовые компоненты**
-HDMI Дисплей 5.5 дюйма 2560 на 1440 128$ - http://ali.pub/1g7xle 
-Oculus Rift DK1 USB трекер $43 - http://ali.pub/1g7xoi 
+**Готовые компоненты**<br>
+HDMI Дисплей 5.5 дюйма 2560 на 1440 128$ - http://ali.pub/1g7xle<br>
+Oculus Rift DK1 USB трекер $43 - http://ali.pub/1g7xoi <br>
 **VR гарнитуры:**<br>
 Google Cardboard v2 - http://ali.pub/1g7xfd<br>
 Bobo Z4 - http://ali.pub/1g7x77<br>
 
-**Основные компоненты:**<br>
+**Основные компоненты:**
 1. Дисплей 5 дюймов, 1920 на 1080 пикселей или 2560 на 1440, поддерживающий как минимум 60 кадров. Можно взять следующие дисплеи: LG G3, Samsung Galaxy Note 3 N9005 (5,7 дюймов), Lenovo K910 (5,5 дюймов), LG Optimus Pro E980 (5,5 дюйма) или 4K дисплей Sharp.<br> 
 2. Два контроллера. Первый преобразовывает входной видеосигнал интерфейса HDMI в потоковые видеоданные, соответствующие стандарту MIPI DSI - Toshiba TC358779XBG. Второй эмулирует USB устройство и позволяет получить данные гироскопа - STM32F100C4T6B.<br> 
 3. Гироскоп GY-85 9DOF IMU.<br> 
@@ -36,13 +36,13 @@ VR Display - concept HDMI display for head-mounted display Google CardBoard or a
 **Ready solutions:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 080p, Android, HDMI.<br>
 [Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br>
-**Ready components**
-HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle 
-Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi 
+**Ready components**<br>
+HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
+Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
 **VR headsets:**<br>
 Google Cardboard v2 - http://ali.pub/1g7xfd<br>
 Bobo Z4 - http://ali.pub/1g7x77<br>
-**Main components:**<br>
+**Main components:**
 1. 5-inch display, 1920 x 1080 or 2560 x 1440 pixel resolution that supports at least 60 shots. You can take the following displays: LG G3, Samsung Galaxy Note 3 N9005 (5,7 inches), Lenovo K910 (5,5 inches), LG Optimus Pro E980 (5,5 inches) or 4K display Sharp.<br>
 2. Two controllers. The first converts the input video signal to an HDMI video stream corresponding to the standard MIPI DSI - Toshiba TC358779XBG. The second emulation USB device provides data gyro - STM32F100C4T6B.<br> 
 3. Gyro GY-85 9DOF IMU.<br>
