@@ -4,7 +4,7 @@
 [![](https://github.com/r57zone/VR-Display/blob/master/3.png)](https://github.com/r57zone/VR-Display/blob/master/3.png)
 <h2>RU:</h2>
 
-VR Display - концепт HDMI дисплея для шлема виртуальной реальности Google CardBoard или для любых других vr гарнитур, без дисплея.<br><br>
+VR Display - концепт HDMI дисплея для шлема виртуальной реальности Google CardBoard или для любых других vr гарнитур, без дисплея.<br>
 
 **Готовые решения:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 080p, Android, HDMI.<br>
@@ -43,12 +43,13 @@ VR Display - concept HDMI display for head-mounted display Google CardBoard or a
 **Ready components**<br>
 
 HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
-Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br><br>
+Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
 
 **VR headsets:**<br>
 
 Google Cardboard v2 - http://ali.pub/1g7xfd<br>
 Bobo Z4 - http://ali.pub/1g7x77<br>
+
 **Main components:**
 1. 5-inch display, 1920 x 1080 or 2560 x 1440 pixel resolution that supports at least 60 shots. You can take the following displays: LG G3, Samsung Galaxy Note 3 N9005 (5,7 inches), Lenovo K910 (5,5 inches), LG Optimus Pro E980 (5,5 inches) or 4K display Sharp.<br>
 2. Two controllers. The first converts the input video signal to an HDMI video stream corresponding to the standard MIPI DSI - Toshiba TC358779XBG. The second emulation USB device provides data gyro - STM32F100C4T6B.<br> 
@@ -56,7 +57,7 @@ Bobo Z4 - http://ali.pub/1g7x77<br>
 4. The power button, with a modular connection (connection via connector on the board).<br>
 5. Wheel adjusts the brightness, modular connection.<br>
 
-**Technical details:**<br>
+**Technical details:**
 
 Power devices and data from the gyroscope occurs in one or two USB 2.0, one or USB 3.0.<br>
 
