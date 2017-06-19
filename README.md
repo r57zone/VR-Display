@@ -8,7 +8,8 @@ VR Display - концепт HDMI дисплея для Google CardBoard или �
 
 **Готовые решения:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 1080p, Android, HDMI.<br>
-[Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br><br>
+[Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br>
+[Deepoon-E3](http://ali.pub/1kvkde) - 380$, 1440p и OpenVR compatible.<br><br>
 **Готовые компоненты**<br>
 HDMI Дисплей 5.5 дюйма 2560 на 1440 128$ - http://ali.pub/1g7xle<br>
 Oculus Rift DK1 USB трекер $43 - http://ali.pub/1g7xoi<br><br>
@@ -39,7 +40,8 @@ VR Display - concept HDMI display for Google CardBoard or any other similar vr h
 
 **Ready solutions:**<br>
 [BoboVR X1](http://ali.pub/1g7wh5) - 139$, 1080p, Android, HDMI.<br>
-[Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br><br>
+[Deepoon-E2](http://ali.pub/1g7ww4) - 270$, 1080p и DK2 compatible.<br>
+[Deepoon-E3](http://ali.pub/1kvkde) - 380$, 1440p и OpenVR compatible.<br><br>
 **Ready components**<br>
 HDMI display 5.5 inch 2560 x 1440 128$ - http://ali.pub/1g7xle<br>
 Oculus Rift DK1 USB tracker $43 - http://ali.pub/1g7xoi<br>
